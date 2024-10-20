@@ -1,2 +1,2 @@
 My first normal programm!😀
-yet only russian language supports.😢
+Yet only russian language supports.😢
